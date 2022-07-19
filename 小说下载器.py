@@ -13,7 +13,7 @@ indexname = 'index_file.xlsx'   # 章节列表，可供备查。
 filename = '23123.txt'          # 文件名称，可随意更改。
 
 Meta_Url = 'https://www.xbiquwx.la/12_12583/'     # 小说网址
-con_url = 'https://www.xbiquwx.la/12_12583/{}'    # 章节网址模板
+con_url = Meta_Url + '{}'    # 章节网址模板
 
 cpt_urls = []
 cpt_name = []
