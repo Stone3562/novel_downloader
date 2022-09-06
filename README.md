@@ -7,4 +7,4 @@
 
 · 需要修改文件中path路径地址至自己的实际情况
 
-· 在【https://www.xbiquwx.la】里找到自己想看的小说，把Meta_Url修改为该小说目录页
+· 在 https://www.xbiquwx.la 里找到自己想看的小说，把Meta_Url修改为该小说目录页
